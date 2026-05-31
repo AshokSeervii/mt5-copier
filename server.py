@@ -5,13 +5,12 @@ import json
 from datetime import datetime
 
 # ===== YOUR ACCOUNT DETAILS =====
-MASTER_LOGIN = 123456        # change to your master account number
-MASTER_PASSWORD = "yourpassword"   # change to your master password
-MASTER_SERVER = "BrokerName-Live"  # change to your broker server name
+MASTER_LOGIN = 80133504        # change to your master account number
+MASTER_PASSWORD = "bn8x-HhYp"   # change to your master password
+MASTER_SERVER = "FinotiveMarkets-Live"  # change to your broker server name
 
 FOLLOWER_ACCOUNTS = [
-    {"login": 654321, "password": "followerpass1", "server": "BrokerName-Live"},
-    {"login": 789012, "password": "followerpass2", "server": "BrokerName-Live"},
+    {"login": 80123207, "password": "tsGr-Anb7", "server": "FinotiveMarkets-Live"},
 ]
 
 # ===== SETTINGS =====
